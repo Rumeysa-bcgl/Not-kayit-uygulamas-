@@ -1,0 +1,36 @@
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csprojAssemblyReference.cache
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.Form1.resources
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.ogrencidetay.resources
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.ogretmendetay.resources
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.Properties.Resources.resources
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csproj.GenerateResource.cache
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.exe.config
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.exe
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.pdb
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.exe
+C:\Users\RMYS\source\repos\NOT_KAYIT2\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.pdb
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.exe.config
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.exe
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.pdb
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csprojAssemblyReference.cache
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.Form1.resources
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.ogrencidetay.resources
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.ogretmendetay.resources
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.Properties.Resources.resources
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csproj.GenerateResource.cache
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.exe
+C:\Users\RMYS\Desktop\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.pdb
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.exe.config
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.exe
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\bin\Debug\NOT_KAYIT2.pdb
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csprojAssemblyReference.cache
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.Form1.resources
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.ogrencidetay.resources
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.ogretmendetay.resources
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.Properties.Resources.resources
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csproj.GenerateResource.cache
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.csproj.CoreCompileInputs.cache
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.exe
+C:\Users\RMYS\Desktop\1.dönem\NOT_KAYIT2 - Kopya\NOT_KAYIT2\obj\Debug\NOT_KAYIT2.pdb
